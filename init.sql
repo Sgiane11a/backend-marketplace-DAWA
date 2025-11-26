@@ -1,3 +1,6 @@
+
+
+
 -- ============================================
 -- SECCIÓN 0: LIMPIEZA (BORRAR TABLAS VIEJAS)
 -- ============================================
@@ -85,3 +88,5 @@ INSERT INTO products (nombre, precio, descripcion, category_id, image_url, creat
 ('Bicicleta de montaña', 450.00, 'Bicicleta todo terreno 21 velocidades', 4, 'https://images.unsplash.com/photo-1576435728678-68d0fbf94e91', NOW(), NOW()),
 ('Clean Code', 42.99, 'Libro de programación por Robert C. Martin', 5, 'https://images.unsplash.com/photo-1544947950-fa07a98d237f', NOW(), NOW()),
 ('LEGO Star Wars', 79.99, 'Set de construcción LEGO', 6, 'https://images.unsplash.com/photo-1587654780291-39c9404d746b', NOW(), NOW());
+
+
